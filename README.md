@@ -1,4 +1,4 @@
-![Beluga](http://files.andrielfn.com/xgRr00AUY6.jpg)
+![Beluga](http://f.anue.me/xgRr00AUY6.jpg)
 =========
 [![Build Status](https://travis-ci.org/andrielfn/beluga-lang.svg?branch=master)](https://travis-ci.org/andrielfn/beluga-lang)
 
